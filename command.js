@@ -9,4 +9,4 @@ class Command {
  
  }
  
- module.exports = Command;clearInterval
+ module.exports = Command;
